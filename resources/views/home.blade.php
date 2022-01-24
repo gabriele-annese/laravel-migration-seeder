@@ -1,5 +1,6 @@
 @extends('layouts.main')
 
 @section('main-content')
-    <h2>main its ok</h2>
+    <h2>Benvenuto</h2>
+    <p>Clicca su viaggi per vedere i nostri viaggi disponibili</p>
 @endsection
